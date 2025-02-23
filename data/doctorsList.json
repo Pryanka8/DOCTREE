@@ -1,0 +1,194 @@
+{
+    "departments": [
+      {
+        "name": "Obstetrics & Gynecology",
+        "consultants": [
+          {
+            "name": "DR.NAMITA SIROHI",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "PGDMCH",
+              "superspecialization": "NA"
+            },
+            "location": "Gurgaon"
+          },
+          {
+            "name": "DR.MANJUL BIJARNIA",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MD",
+              "superspecialization": "DNB"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "General Surgery including Laparoscopy Surgery",
+        "consultants": [
+          {
+            "name": "DR. RAKESH MITTAL",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MS",
+              "superspecialization": "Other degree recognised as equivalent by MCI"
+            },
+            "location": "Gurgaon"
+          },
+          {
+            "name": "DR AANIL",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MS",
+              "superspecialization": "DNB"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedic Surgery (Including Joint Replacement)",
+        "consultants": [
+          {
+            "name": "DR. HIMANSHU GUPTA",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MS",
+              "superspecialization": "Interventional pain & spine specialist"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Dental",
+        "consultants": [
+          {
+            "name": "DR. SRITI GUPTA",
+            "qualification": {
+              "graduation": "BDS",
+              "post_graduation": "Other degree recognised as equivalent by MCI",
+              "superspecialization": "Other degree recognised as equivalent by MCI"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Otorhinolaryngology",
+        "consultants": [
+          {
+            "name": "DR MANUJ JAIN",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MS",
+              "superspecialization": "Other degree recognised as equivalent by MCI"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Anaesthesiology",
+        "consultants": [
+          {
+            "name": "DR VAIBHAV BHOLA",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "DNB",
+              "superspecialization": "pain management specialist"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "General Physician - Internal Medicine",
+        "consultants": [
+          {
+            "name": "DR MANU JAIN",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "MD",
+              "superspecialization": "Other degree recognised as equivalent by MCI"
+            },
+            "location": "Gurgaon"
+          },
+          {
+            "name": "DR LALIT KUMAR",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "NA",
+              "superspecialization": "NA"
+            },
+            "location": "Gurgaon"
+          },
+          {
+            "name": "DR AMRENDER KUMAR",
+            "qualification": {
+              "graduation": "MBBS",
+              "post_graduation": "PGDDM, MRCP",
+              "superspecialization": "FELLOWSHIP IN INFECTION Disease"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Ayurveda (Pain Management)",
+        "consultants": [
+          {
+            "name": "DR PARDEEP KUMAR",
+            "qualification": {
+              "graduation": "BAMS",
+              "post_graduation": "MD (AM), PGDCR, PGDHA",
+              "superspecialization": "Ozone Therapy Specialist"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Health & Nutrition Counsellor",
+        "consultants": [
+          {
+            "name": "DR SARIKA YADAV",
+            "qualification": {
+              "graduation": "BAMS",
+              "post_graduation": "NA",
+              "superspecialization": "NA"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Physiotherapy",
+        "consultants": [
+          {
+            "name": "DR. BILAL MOHD JAFRI",
+            "qualification": {
+              "graduation": "BPT",
+              "post_graduation": "MPT (Orthopaedic)",
+              "superspecialization": "NA"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      },
+      {
+        "name": "Ayurveda (Pediatrics)",
+        "consultants": [
+          {
+            "name": "DR. VED PARKASH SHARMA",
+            "qualification": {
+              "graduation": "BAMS",
+              "post_graduation": "MD (AYU), PEDIATRICS",
+              "superspecialization": "NA"
+            },
+            "location": "Gurgaon"
+          }
+        ]
+      }
+    ]
+  }

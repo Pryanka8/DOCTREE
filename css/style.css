@@ -324,7 +324,6 @@
   display: inline-flex;
   color: var(--primary);
   background: #ffffff;
-  border-radius: 40px;
 }
 
 .team-item .team-social .btn:hover {
